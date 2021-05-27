@@ -5,7 +5,7 @@ A python library for doing pre-processing on image data for training computer vi
 
 <img src = "nerve.png" height="200" width="200">
 
-Features to implemented
+## Features to be implemented
 
 - breaking video into images (frames)
 - Image data generation
