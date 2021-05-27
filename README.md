@@ -1,8 +1,8 @@
 # nerve
 
 <samp>
-A python library for doing pre-processing on image data for training computer vision models
-
+A python library for doing pre-processing on image data for training computer vision models | 
+  
 <img src = "nerve.png" height="200" width="200">
 
 ## Features to be implemented
