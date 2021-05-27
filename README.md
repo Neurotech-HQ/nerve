@@ -2,7 +2,7 @@
 
 A python library for doing pre-processing on image data for training computer vision models
 
-Features to implemented
+## Features to be implemented
 
 - breaking video into images (frames)
 - Image data generation
